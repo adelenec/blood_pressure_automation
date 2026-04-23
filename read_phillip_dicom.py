@@ -1,9 +1,11 @@
 import pydicom
 import matplotlib.pyplot as plt
 import numpy as np
+import cv2
 
 # load
-file_path = "/Users/aa/DICOM/IM_0001"
+
+file_path = "data/phillips_no_color.dcm"
 # file_path = "/Users/aa/Downloads/butterfly1.dcm" # doesn't work
 
 ds = pydicom.dcmread(file_path)
@@ -17,6 +19,17 @@ print("Modality:", ds.Modality)
 # access pixel data
 image_data = ds.pixel_array
 print("original pixel_array shape:", getattr(image_data, "shape", None))
+
+height, width = image_data[0].shape[:2]
+out = cv2.VideoWriter("output.mp4", cv2.VideoWriter_fourcc(*"mp4v"), 30, (width, height))
+
+for frame in image_data:
+    # print(frame.shape)
+    out.write(frame)
+    cv2.imshow("Frame", frame)
+
+out.release()
+
 
 # If image_data is 4D (frames, H, W, C), select the first frame for display
 if isinstance(image_data, np.ndarray) and image_data.ndim == 4:
@@ -40,7 +53,10 @@ if (
     image_data = image_data[0]
 
 # visualize image
-plt.imshow(image_data, cmap=plt.cm.gray)
-plt.title("DICOM Image")
-plt.axis("off")
-plt.show()
+cv2.imshow("DICOM Image", image_data)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+# plt.imshow(image_data, cmap=plt.cm.gray)
+# plt.title("DICOM Image")
+# plt.axis("off")
+# plt.show()
