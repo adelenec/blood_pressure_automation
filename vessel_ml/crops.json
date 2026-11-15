@@ -1,0 +1,110 @@
+{
+  "042726_flexathigh": {
+    "x": 0,
+    "y": 142,
+    "w": 628,
+    "h": 827,
+    "frames": 851,
+    "manual": false,
+    "source": "data/042726_flexathigh.mp4"
+  },
+  "051426_Lee0_standing": {
+    "x": 1139,
+    "y": 189,
+    "w": 310,
+    "h": 529,
+    "frames": 244,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee0_standing/051426_Lee0_standing.mp4"
+  },
+  "051426_Lee0": {
+    "x": 1138,
+    "y": 233,
+    "w": 310,
+    "h": 408,
+    "frames": 160,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee0_supine/051426_Lee0.mp4"
+  },
+  "051426_Lee1_standing": {
+    "x": 1139,
+    "y": 207,
+    "w": 310,
+    "h": 414,
+    "frames": 162,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee1_standing/051426_Lee1_standing.mp4"
+  },
+  "051426_Lee1": {
+    "x": 1138,
+    "y": 231,
+    "w": 310,
+    "h": 410,
+    "frames": 275,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee1_supine/051426_Lee1.mp4"
+  },
+  "051426_Lee2_standing": {
+    "x": 1139,
+    "y": 208,
+    "w": 310,
+    "h": 413,
+    "frames": 202,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee2_standing/051426_Lee2_standing.mp4"
+  },
+  "051426_Lee2": {
+    "x": 1111,
+    "y": 207,
+    "w": 310,
+    "h": 411,
+    "frames": 511,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee2_supine/051426_Lee2.mp4"
+  },
+  "051426_Lee3_standing": {
+    "x": 1139,
+    "y": 207,
+    "w": 310,
+    "h": 413,
+    "frames": 142,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee3_standing/051426_Lee3_standing.mp4"
+  },
+  "051426_Lee3": {
+    "x": 1139,
+    "y": 208,
+    "w": 310,
+    "h": 410,
+    "frames": 333,
+    "manual": false,
+    "source": "data/051426 - Custom Script/051426_Lee3_supine/051426_Lee3.mp4"
+  },
+  "butterfly_no_color": {
+    "x": 0,
+    "y": 150,
+    "w": 628,
+    "h": 806,
+    "frames": 1401,
+    "manual": false,
+    "source": "data/butterfly_no_color.mp4"
+  },
+  "phillips_doppler": {
+    "x": 242,
+    "y": 73,
+    "w": 317,
+    "h": 432,
+    "frames": 872,
+    "manual": false,
+    "source": "data/phillips_doppler.mp4"
+  },
+  "phillips_no_color": {
+    "x": 346,
+    "y": 113,
+    "w": 329,
+    "h": 374,
+    "frames": 1528,
+    "manual": false,
+    "source": "data/phillips_no_color.mp4"
+  }
+}

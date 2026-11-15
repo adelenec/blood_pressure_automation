@@ -1,0 +1,54 @@
+{
+  "t0_epoch_s": 1778770300.923125,
+  "t0_local_iso": "2026-05-14T10:51:40.923130-04:00",
+  "session_wall_s": 223.1538090002723,
+  "video": {
+    "nominal_fps": 30.0,
+    "frame_count": 275,
+    "mean_inter_frame_s": 0.8022439178830543,
+    "std_inter_frame_s": 0.13973401075103603,
+    "implied_mean_fps": 1.246503685112105
+  },
+  "pressure": {
+    "nominal_hz": 100,
+    "sample_count": 2208,
+    "mean_inter_sample_s": 0.09991823478340664,
+    "std_inter_sample_s": 0.044320460669089054,
+    "implied_mean_hz": 10.008183212680908
+  },
+  "collapse_events": [
+    {
+      "type": "venous",
+      "t_sync_s": 29.50343104219064,
+      "cuff_pressure_mm_hg": 11.254649585229345
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 73.50781120825559,
+      "cuff_pressure_mm_hg": 118.87907079455908
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 91.9745109169744,
+      "cuff_pressure_mm_hg": 63.69578562770039
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 133.4906876673922,
+      "cuff_pressure_mm_hg": 30.06500347086694
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 198.29078320832923,
+      "cuff_pressure_mm_hg": 16.66496899072081
+    }
+  ],
+  "files": {
+    "video": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_105140_mirroring.mp4",
+    "pressure_csv": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_105140_pressure.csv",
+    "video_frames_csv": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_105140_video_frames.csv",
+    "collapse_events_csv": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_105140_collapse_events.csv"
+  },
+  "quartz_window_owner": "iPhone Mirroring \u2014 iPhone Mirroring",
+  "quartz_window_id": 72653
+}

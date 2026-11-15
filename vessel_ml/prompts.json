@@ -1,0 +1,9081 @@
+{
+ "butterfly_no_color": {
+  "stride": 3,
+  "prompts": [
+   {
+    "frame": 0,
+    "obj": "artery",
+    "points": [
+     [
+      410,
+      405
+     ],
+     [
+      410,
+      540
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 0,
+    "obj": "vein",
+    "points": [
+     [
+      410,
+      540
+     ],
+     [
+      410,
+      405
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 494,
+    "obj": "artery",
+    "points": [
+     [
+      314,
+      404
+     ],
+     [
+      303,
+      512
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 494,
+    "obj": "vein",
+    "points": [
+     [
+      303,
+      512
+     ],
+     [
+      314,
+      404
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1290,
+    "obj": "artery",
+    "points": [
+     [
+      314,
+      450
+     ]
+    ]
+   },
+   {
+    "frame": 1317,
+    "obj": "artery",
+    "points": [
+     [
+      280,
+      403
+     ]
+    ]
+   }
+  ],
+  "absent": [
+   {
+    "obj": "vein",
+    "from": 860,
+    "to": 1400
+   }
+  ],
+  "notes": "Artery = upper vessel, confirmed by Arthur. Vessel that reappears from ~f1275 assumed to be the artery (UNSURE)."
+ },
+ "phillips_no_color": {
+  "stride": 3,
+  "prompts": [
+   {
+    "frame": 0,
+    "obj": "artery",
+    "points": [
+     [
+      156,
+      193
+     ],
+     [
+      140,
+      238
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 0,
+    "obj": "vein",
+    "points": [
+     [
+      140,
+      238
+     ],
+     [
+      156,
+      193
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 90,
+    "obj": "vein",
+    "points": [
+     [
+      167,
+      236
+     ],
+     [
+      130,
+      214
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 93,
+    "obj": "vein",
+    "points": [
+     [
+      131,
+      217
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 114,
+    "obj": "vein",
+    "points": [
+     [
+      130,
+      228
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 123,
+    "obj": "vein",
+    "points": [
+     [
+      134,
+      233
+     ],
+     [
+      157,
+      236
+     ]
+    ],
+    "labels": [
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 222,
+    "obj": "vein",
+    "points": [
+     [
+      266,
+      190
+     ],
+     [
+      325,
+      262
+     ]
+    ],
+    "labels": [
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 227,
+    "obj": "vein",
+    "points": [
+     [
+      317,
+      265
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 231,
+    "obj": "vein",
+    "points": [
+     [
+      316,
+      262
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 325,
+    "obj": "artery",
+    "points": [
+     [
+      100,
+      273
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 327,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      186
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 330,
+    "obj": "artery",
+    "points": [
+     [
+      169,
+      170
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 333,
+    "obj": "artery",
+    "points": [
+     [
+      109,
+      278
+     ],
+     [
+      149,
+      194
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 333,
+    "obj": "vein",
+    "points": [
+     [
+      310,
+      273
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 336,
+    "obj": "artery",
+    "points": [
+     [
+      157,
+      191
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 339,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      198
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 342,
+    "obj": "artery",
+    "points": [
+     [
+      116,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 348,
+    "obj": "artery",
+    "points": [
+     [
+      166,
+      189
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 349,
+    "obj": "artery",
+    "points": [
+     [
+      125,
+      263
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 351,
+    "obj": "artery",
+    "points": [
+     [
+      161,
+      193
+     ],
+     [
+      128,
+      254
+     ]
+    ],
+    "labels": [
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 397,
+    "obj": "artery",
+    "points": [
+     [
+      169,
+      210
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 458,
+    "obj": "artery",
+    "points": [
+     [
+      238,
+      193
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 520,
+    "obj": "artery",
+    "points": [
+     [
+      218,
+      181
+     ],
+     [
+      226,
+      226
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 520,
+    "obj": "vein",
+    "points": [
+     [
+      226,
+      226
+     ],
+     [
+      218,
+      181
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 718,
+    "obj": "artery",
+    "points": [
+     [
+      219,
+      175
+     ],
+     [
+      230,
+      219
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 718,
+    "obj": "vein",
+    "points": [
+     [
+      230,
+      219
+     ],
+     [
+      219,
+      175
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1077,
+    "obj": "artery",
+    "points": [
+     [
+      214,
+      192
+     ],
+     [
+      214,
+      247
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1077,
+    "obj": "vein",
+    "points": [
+     [
+      214,
+      247
+     ],
+     [
+      214,
+      192
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1437,
+    "obj": "artery",
+    "points": [
+     [
+      159,
+      192
+     ],
+     [
+      159,
+      247
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1437,
+    "obj": "vein",
+    "points": [
+     [
+      159,
+      247
+     ],
+     [
+      159,
+      192
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   }
+  ],
+  "notes": "Artery assumed = upper vessel (lower one collapses first). UNSURE, not confirmed by Arthur. 'exclude' = frames kept out of training because the label is not trusted (faint vessel that SAM dropped, or SAM drifted onto other tissue).",
+  "absent": [
+   {
+    "obj": "vein",
+    "from": 107,
+    "to": 411
+   },
+   {
+    "obj": "artery",
+    "from": 230,
+    "to": 279
+   }
+  ],
+  "human_checked": true
+ },
+ "051426_Lee3": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 52,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      170
+     ],
+     [
+      150,
+      215
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 52,
+    "obj": "vein",
+    "points": [
+     [
+      150,
+      215
+     ],
+     [
+      160,
+      170
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 75,
+    "obj": "artery",
+    "points": [
+     [
+      170,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 76,
+    "obj": "artery",
+    "points": [
+     [
+      151,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 77,
+    "obj": "artery",
+    "points": [
+     [
+      134,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 78,
+    "obj": "artery",
+    "points": [
+     [
+      127,
+      264
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 79,
+    "obj": "artery",
+    "points": [
+     [
+      129,
+      270
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 80,
+    "obj": "artery",
+    "points": [
+     [
+      142,
+      270
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 81,
+    "obj": "artery",
+    "points": [
+     [
+      134,
+      275
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 83,
+    "obj": "artery",
+    "points": [
+     [
+      141,
+      288
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 84,
+    "obj": "artery",
+    "points": [
+     [
+      144,
+      291
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 87,
+    "obj": "artery",
+    "points": [
+     [
+      193,
+      283
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "artery",
+    "points": [
+     [
+      137,
+      283
+     ],
+     [
+      126,
+      366
+     ],
+     [
+      69,
+      287
+     ],
+     [
+      172,
+      204
+     ],
+     [
+      204,
+      305
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 142,
+    "obj": "artery",
+    "points": [
+     [
+      133,
+      287
+     ],
+     [
+      64,
+      276
+     ],
+     [
+      147,
+      211
+     ],
+     [
+      215,
+      258
+     ],
+     [
+      114,
+      352
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 154,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      278
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 156,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      275
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 158,
+    "obj": "artery",
+    "points": [
+     [
+      134,
+      268
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 160,
+    "obj": "artery",
+    "points": [
+     [
+      152,
+      265
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 162,
+    "obj": "artery",
+    "points": [
+     [
+      148,
+      263
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 185,
+    "obj": "artery",
+    "points": [
+     [
+      150,
+      262
+     ],
+     [
+      236,
+      329
+     ],
+     [
+      246,
+      200
+     ],
+     [
+      132,
+      160
+     ],
+     [
+      91,
+      240
+     ],
+     [
+      47,
+      281
+     ],
+     [
+      79,
+      344
+     ],
+     [
+      165,
+      376
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 189,
+    "obj": "artery",
+    "points": [
+     [
+      148,
+      273
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 191,
+    "obj": "artery",
+    "points": [
+     [
+      149,
+      272
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 194,
+    "obj": "artery",
+    "points": [
+     [
+      147,
+      267
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 197,
+    "obj": "artery",
+    "points": [
+     [
+      150,
+      263
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 200,
+    "obj": "artery",
+    "points": [
+     [
+      152,
+      264
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 206,
+    "obj": "artery",
+    "points": [
+     [
+      156,
+      262
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 211,
+    "obj": "artery",
+    "points": [
+     [
+      155,
+      262
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 216,
+    "obj": "artery",
+    "points": [
+     [
+      155,
+      262
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 220,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      260
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 225,
+    "obj": "vein",
+    "points": [
+     [
+      152,
+      299
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 234,
+    "obj": "artery",
+    "points": [
+     [
+      155,
+      245
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 239,
+    "obj": "vein",
+    "points": [
+     [
+      159,
+      293
+     ],
+     [
+      112,
+      307
+     ],
+     [
+      202,
+      299
+     ],
+     [
+      169,
+      239
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 244,
+    "obj": "vein",
+    "points": [
+     [
+      165,
+      286
+     ],
+     [
+      120,
+      298
+     ],
+     [
+      225,
+      324
+     ],
+     [
+      169,
+      237
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 256,
+    "obj": "artery",
+    "points": [
+     [
+      168,
+      220
+     ],
+     [
+      160,
+      273
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 256,
+    "obj": "vein",
+    "points": [
+     [
+      160,
+      272
+     ],
+     [
+      107,
+      281
+     ],
+     [
+      233,
+      282
+     ],
+     [
+      168,
+      220
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 261,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      273
+     ],
+     [
+      115,
+      271
+     ],
+     [
+      167,
+      220
+     ],
+     [
+      195,
+      274
+     ],
+     [
+      147,
+      320
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 262,
+    "obj": "artery",
+    "points": [
+     [
+      170,
+      220
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 278,
+    "obj": "vein",
+    "points": [
+     [
+      152,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 283,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 285,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 290,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      205
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 311,
+    "obj": "artery",
+    "points": [
+     [
+      140,
+      195
+     ],
+     [
+      130,
+      255
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 311,
+    "obj": "vein",
+    "points": [
+     [
+      130,
+      255
+     ],
+     [
+      140,
+      195
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   }
+  ],
+  "absent": [
+   {
+    "obj": "artery",
+    "from": 103,
+    "to": 116
+   },
+   {
+    "obj": "vein",
+    "from": 70,
+    "to": 199
+   }
+  ],
+  "skip": [
+   [
+    0,
+    38
+   ]
+  ],
+  "notes": "Clicks placed by Claude from contact sheets. Artery assumed = upper vessel. UNSURE in mid-video frames where the vessel is faint. 'exclude' = frames kept out of training because the label is not trusted (faint vessel that SAM dropped, or SAM drifted onto other tissue).",
+  "human_checked": true
+ },
+ "051426_Lee1": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 23,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      175
+     ],
+     [
+      150,
+      225
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 23,
+    "obj": "vein",
+    "points": [
+     [
+      150,
+      225
+     ],
+     [
+      165,
+      175
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 35,
+    "obj": "artery",
+    "points": [
+     [
+      150,
+      185
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 36,
+    "obj": "vein",
+    "points": [
+     [
+      116,
+      231
+     ],
+     [
+      138,
+      236
+     ]
+    ],
+    "labels": [
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 37,
+    "obj": "vein",
+    "points": [
+     [
+      103,
+      242
+     ],
+     [
+      139,
+      236
+     ]
+    ],
+    "labels": [
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 38,
+    "obj": "vein",
+    "points": [
+     [
+      131,
+      240
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 41,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      245
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 60,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      283
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 61,
+    "obj": "artery",
+    "points": [
+     [
+      176,
+      287
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 62,
+    "obj": "artery",
+    "points": [
+     [
+      176,
+      289
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 63,
+    "obj": "artery",
+    "points": [
+     [
+      185,
+      288
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 64,
+    "obj": "artery",
+    "points": [
+     [
+      195,
+      290
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 66,
+    "obj": "artery",
+    "points": [
+     [
+      137,
+      297
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 67,
+    "obj": "artery",
+    "points": [
+     [
+      139,
+      291
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 68,
+    "obj": "artery",
+    "points": [
+     [
+      146,
+      289
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 69,
+    "obj": "artery",
+    "points": [
+     [
+      142,
+      298
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 70,
+    "obj": "artery",
+    "points": [
+     [
+      144,
+      297
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 71,
+    "obj": "artery",
+    "points": [
+     [
+      144,
+      297
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 72,
+    "obj": "artery",
+    "points": [
+     [
+      147,
+      295
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 103,
+    "obj": "artery",
+    "points": [
+     [
+      126,
+      284
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 106,
+    "obj": "artery",
+    "points": [
+     [
+      128,
+      278
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 117,
+    "obj": "artery",
+    "points": [
+     [
+      124,
+      272
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 145,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      277
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 147,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      277
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 149,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      277
+     ],
+     [
+      115,
+      277
+     ]
+    ],
+    "labels": [
+     1,
+     1
+    ]
+   },
+   {
+    "frame": 152,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      277
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 154,
+    "obj": "artery",
+    "points": [
+     [
+      114,
+      283
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 159,
+    "obj": "artery",
+    "points": [
+     [
+      103,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 161,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 162,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 163,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 165,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 166,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 167,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      271
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 172,
+    "obj": "artery",
+    "points": [
+     [
+      129,
+      262
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 175,
+    "obj": "artery",
+    "points": [
+     [
+      118,
+      262
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 176,
+    "obj": "artery",
+    "points": [
+     [
+      118,
+      262
+     ],
+     [
+      106,
+      268
+     ]
+    ],
+    "labels": [
+     1,
+     1
+    ]
+   },
+   {
+    "frame": 177,
+    "obj": "artery",
+    "points": [
+     [
+      120,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 178,
+    "obj": "artery",
+    "points": [
+     [
+      120,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 179,
+    "obj": "artery",
+    "points": [
+     [
+      120,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 180,
+    "obj": "artery",
+    "points": [
+     [
+      120,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 202,
+    "obj": "artery",
+    "points": [
+     [
+      140,
+      255
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 238,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      245
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 252,
+    "obj": "vein",
+    "points": [
+     [
+      251,
+      254
+     ],
+     [
+      252,
+      225
+     ],
+     [
+      236,
+      261
+     ],
+     [
+      152,
+      291
+     ]
+    ],
+    "labels": [
+     0,
+     0,
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 253,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      286
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 254,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      286
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 255,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      286
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 256,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      286
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 257,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      286
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 258,
+    "obj": "vein",
+    "points": [
+     [
+      148,
+      292
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 259,
+    "obj": "vein",
+    "points": [
+     [
+      145,
+      274
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 265,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      192
+     ],
+     [
+      160,
+      239
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 265,
+    "obj": "vein",
+    "points": [
+     [
+      160,
+      239
+     ],
+     [
+      165,
+      192
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 274,
+    "obj": "artery",
+    "points": [
+     [
+      173,
+      182
+     ],
+     [
+      173,
+      239
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 274,
+    "obj": "vein",
+    "points": [
+     [
+      173,
+      239
+     ],
+     [
+      173,
+      182
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   }
+  ],
+  "absent": [
+   {
+    "obj": "vein",
+    "from": 45,
+    "to": 245
+   },
+   {
+    "obj": "artery",
+    "from": 87,
+    "to": 89
+   },
+   {
+    "obj": "vein",
+    "from": 39,
+    "to": 47
+   }
+  ],
+  "notes": "Clicks placed by Claude from contact sheets. Artery assumed = upper vessel. UNSURE in mid-video frames where the vessel is faint. 'exclude' = frames kept out of training because the label is not trusted (faint vessel that SAM dropped, or SAM drifted onto other tissue).",
+  "human_checked": true
+ },
+ "051426_Lee2": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 421,
+    "obj": "artery",
+    "points": [
+     [
+      170,
+      235
+     ]
+    ]
+   },
+   {
+    "frame": 421,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      235
+     ]
+    ],
+    "labels": [
+     0
+    ]
+   },
+   {
+    "frame": 465,
+    "obj": "artery",
+    "points": [
+     [
+      175,
+      210
+     ]
+    ]
+   },
+   {
+    "frame": 487,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      190
+     ],
+     [
+      165,
+      240
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 487,
+    "obj": "vein",
+    "points": [
+     [
+      165,
+      240
+     ],
+     [
+      160,
+      190
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   }
+  ],
+  "absent": [
+   {
+    "obj": "vein",
+    "from": 216,
+    "to": 470
+   }
+  ],
+  "skip": [
+   [
+    0,
+    215
+   ]
+  ],
+  "notes": "Clicks placed by Claude from contact sheets. Artery assumed = upper vessel. UNSURE in mid-video frames where the vessel is faint. Frames 0-215 skipped: could not tell which dark blobs are the vessels."
+ },
+ "051426_Lee0": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 0,
+    "obj": "artery",
+    "points": [
+     [
+      192,
+      184
+     ],
+     [
+      183,
+      233
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 0,
+    "obj": "vein",
+    "points": [
+     [
+      163,
+      232
+     ],
+     [
+      186,
+      191
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1,
+    "obj": "artery",
+    "points": [
+     [
+      191,
+      187
+     ],
+     [
+      182,
+      236
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 1,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      248
+     ],
+     [
+      183,
+      197
+     ],
+     [
+      183,
+      197
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 2,
+    "obj": "artery",
+    "points": [
+     [
+      198,
+      190
+     ],
+     [
+      188,
+      238
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 2,
+    "obj": "vein",
+    "points": [
+     [
+      173,
+      237
+     ],
+     [
+      188,
+      197
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 3,
+    "obj": "artery",
+    "points": [
+     [
+      201,
+      191
+     ],
+     [
+      179,
+      240
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 3,
+    "obj": "vein",
+    "points": [
+     [
+      167,
+      239
+     ],
+     [
+      190,
+      188
+     ],
+     [
+      97,
+      195
+     ],
+     [
+      125,
+      110
+     ],
+     [
+      196,
+      93
+     ],
+     [
+      286,
+      163
+     ],
+     [
+      289,
+      211
+     ],
+     [
+      256,
+      351
+     ],
+     [
+      112,
+      390
+     ],
+     [
+      28,
+      328
+     ],
+     [
+      35,
+      282
+     ],
+     [
+      80,
+      235
+     ],
+     [
+      230,
+      291
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 4,
+    "obj": "vein",
+    "points": [
+     [
+      171,
+      234
+     ],
+     [
+      236,
+      310
+     ],
+     [
+      139,
+      316
+     ],
+     [
+      121,
+      269
+     ],
+     [
+      93,
+      218
+     ],
+     [
+      135,
+      192
+     ],
+     [
+      238,
+      230
+     ],
+     [
+      262,
+      264
+     ],
+     [
+      179,
+      276
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 5,
+    "obj": "vein",
+    "points": [
+     [
+      169,
+      240
+     ],
+     [
+      90,
+      217
+     ],
+     [
+      141,
+      174
+     ],
+     [
+      143,
+      299
+     ],
+     [
+      249,
+      318
+     ],
+     [
+      241,
+      265
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 6,
+    "obj": "vein",
+    "points": [
+     [
+      161,
+      236
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 7,
+    "obj": "vein",
+    "points": [
+     [
+      172,
+      231
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 8,
+    "obj": "vein",
+    "points": [
+     [
+      172,
+      233
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 9,
+    "obj": "vein",
+    "points": [
+     [
+      172,
+      233
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 10,
+    "obj": "vein",
+    "points": [
+     [
+      172,
+      233
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 11,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 12,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 13,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 14,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 15,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 16,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 17,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 18,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 19,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 20,
+    "obj": "artery",
+    "points": [
+     [
+      188,
+      194
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 20,
+    "obj": "vein",
+    "points": [
+     [
+      176,
+      232
+     ],
+     [
+      170,
+      241
+     ],
+     [
+      73,
+      207
+     ],
+     [
+      142,
+      124
+     ],
+     [
+      213,
+      123
+     ],
+     [
+      239,
+      174
+     ],
+     [
+      273,
+      259
+     ],
+     [
+      234,
+      322
+     ],
+     [
+      126,
+      358
+     ],
+     [
+      60,
+      314
+     ],
+     [
+      36,
+      247
+     ],
+     [
+      40,
+      196
+     ],
+     [
+      188,
+      185
+     ]
+    ],
+    "labels": [
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 21,
+    "obj": "artery",
+    "points": [
+     [
+      190,
+      188
+     ],
+     [
+      23,
+      33
+     ],
+     [
+      270,
+      29
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 21,
+    "obj": "vein",
+    "points": [
+     [
+      166,
+      236
+     ],
+     [
+      79,
+      167
+     ],
+     [
+      142,
+      93
+     ],
+     [
+      247,
+      160
+     ],
+     [
+      269,
+      283
+     ],
+     [
+      175,
+      356
+     ],
+     [
+      39,
+      298
+     ],
+     [
+      73,
+      240
+     ],
+     [
+      97,
+      328
+     ],
+     [
+      292,
+      383
+     ],
+     [
+      223,
+      288
+     ],
+     [
+      279,
+      42
+     ],
+     [
+      9,
+      76
+     ],
+     [
+      80,
+      92
+     ],
+     [
+      124,
+      40
+     ],
+     [
+      231,
+      82
+     ],
+     [
+      269,
+      134
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 22,
+    "obj": "vein",
+    "points": [
+     [
+      175,
+      239
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 23,
+    "obj": "vein",
+    "points": [
+     [
+      171,
+      239
+     ],
+     [
+      61,
+      258
+     ],
+     [
+      85,
+      175
+     ],
+     [
+      146,
+      126
+     ],
+     [
+      254,
+      136
+     ],
+     [
+      270,
+      184
+     ],
+     [
+      280,
+      307
+     ],
+     [
+      213,
+      336
+     ],
+     [
+      105,
+      355
+     ],
+     [
+      41,
+      317
+     ],
+     [
+      37,
+      175
+     ],
+     [
+      83,
+      88
+     ],
+     [
+      164,
+      53
+     ],
+     [
+      248,
+      70
+     ],
+     [
+      216,
+      116
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 24,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 25,
+    "obj": "vein",
+    "points": [
+     [
+      171,
+      235
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 26,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 27,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 28,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 29,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      236
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 30,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      236
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 31,
+    "obj": "artery",
+    "points": [
+     [
+      182,
+      197
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 31,
+    "obj": "vein",
+    "points": [
+     [
+      163,
+      239
+     ],
+     [
+      84,
+      213
+     ],
+     [
+      110,
+      170
+     ],
+     [
+      188,
+      96
+     ],
+     [
+      247,
+      186
+     ],
+     [
+      265,
+      296
+     ],
+     [
+      144,
+      345
+     ],
+     [
+      79,
+      296
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 32,
+    "obj": "vein",
+    "points": [
+     [
+      160,
+      240
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 33,
+    "obj": "vein",
+    "points": [
+     [
+      184,
+      227
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 34,
+    "obj": "vein",
+    "points": [
+     [
+      182,
+      229
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 35,
+    "obj": "vein",
+    "points": [
+     [
+      171,
+      228
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 36,
+    "obj": "vein",
+    "points": [
+     [
+      155,
+      232
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 37,
+    "obj": "vein",
+    "points": [
+     [
+      51,
+      144
+     ],
+     [
+      139,
+      96
+     ],
+     [
+      240,
+      126
+     ],
+     [
+      286,
+      249
+     ],
+     [
+      246,
+      319
+     ],
+     [
+      108,
+      345
+     ],
+     [
+      75,
+      254
+     ],
+     [
+      171,
+      233
+     ]
+    ],
+    "labels": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 38,
+    "obj": "vein",
+    "points": [
+     [
+      171,
+      233
+     ],
+     [
+      91,
+      204
+     ],
+     [
+      125,
+      132
+     ],
+     [
+      227,
+      146
+     ],
+     [
+      251,
+      303
+     ],
+     [
+      68,
+      323
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 39,
+    "obj": "vein",
+    "points": [
+     [
+      146,
+      233
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 40,
+    "obj": "vein",
+    "points": [
+     [
+      145,
+      232
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 41,
+    "obj": "vein",
+    "points": [
+     [
+      133,
+      221
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 42,
+    "obj": "vein",
+    "points": [
+     [
+      162,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 43,
+    "obj": "vein",
+    "points": [
+     [
+      130,
+      221
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 44,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      221
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 45,
+    "obj": "vein",
+    "points": [
+     [
+      146,
+      218
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 46,
+    "obj": "vein",
+    "points": [
+     [
+      148,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 47,
+    "obj": "vein",
+    "points": [
+     [
+      149,
+      230
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 48,
+    "obj": "vein",
+    "points": [
+     [
+      141,
+      227
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 49,
+    "obj": "artery",
+    "points": [
+     [
+      174,
+      179
+     ],
+     [
+      140,
+      226
+     ],
+     [
+      298,
+      213
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 49,
+    "obj": "vein",
+    "points": [
+     [
+      121,
+      228
+     ],
+     [
+      163,
+      183
+     ],
+     [
+      299,
+      224
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 50,
+    "obj": "vein",
+    "points": [
+     [
+      141,
+      231
+     ],
+     [
+      165,
+      183
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 51,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      189
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 51,
+    "obj": "vein",
+    "points": [
+     [
+      123,
+      233
+     ],
+     [
+      84,
+      165
+     ],
+     [
+      141,
+      132
+     ],
+     [
+      194,
+      187
+     ],
+     [
+      209,
+      267
+     ],
+     [
+      128,
+      326
+     ],
+     [
+      47,
+      271
+     ],
+     [
+      154,
+      194
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 52,
+    "obj": "vein",
+    "points": [
+     [
+      123,
+      233
+     ],
+     [
+      155,
+      189
+     ],
+     [
+      137,
+      126
+     ],
+     [
+      239,
+      155
+     ],
+     [
+      228,
+      290
+     ],
+     [
+      65,
+      309
+     ],
+     [
+      55,
+      181
+     ],
+     [
+      163,
+      314
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 53,
+    "obj": "vein",
+    "points": [
+     [
+      127,
+      237
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 54,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      210
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 103,
+    "obj": "artery",
+    "points": [
+     [
+      231,
+      280
+     ],
+     [
+      114,
+      219
+     ],
+     [
+      151,
+      125
+     ],
+     [
+      229,
+      134
+     ],
+     [
+      152,
+      253
+     ],
+     [
+      62,
+      364
+     ],
+     [
+      133,
+      388
+     ],
+     [
+      239,
+      389
+     ],
+     [
+      264,
+      352
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 104,
+    "obj": "artery",
+    "points": [
+     [
+      221,
+      272
+     ],
+     [
+      102,
+      256
+     ],
+     [
+      154,
+      179
+     ],
+     [
+      137,
+      105
+     ],
+     [
+      178,
+      69
+     ],
+     [
+      239,
+      139
+     ],
+     [
+      154,
+      269
+     ],
+     [
+      109,
+      345
+     ],
+     [
+      192,
+      378
+     ],
+     [
+      285,
+      382
+     ],
+     [
+      274,
+      196
+     ],
+     [
+      301,
+      239
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 105,
+    "obj": "vein",
+    "points": [
+     [
+      112,
+      145
+     ],
+     [
+      172,
+      78
+     ],
+     [
+      208,
+      144
+     ],
+     [
+      42,
+      291
+     ],
+     [
+      114,
+      354
+     ],
+     [
+      226,
+      378
+     ],
+     [
+      289,
+      376
+     ],
+     [
+      188,
+      323
+     ],
+     [
+      273,
+      253
+     ],
+     [
+      90,
+      196
+     ],
+     [
+      150,
+      231
+     ]
+    ],
+    "labels": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 106,
+    "obj": "vein",
+    "points": [
+     [
+      104,
+      239
+     ],
+     [
+      165,
+      132
+     ],
+     [
+      251,
+      197
+     ],
+     [
+      149,
+      297
+     ],
+     [
+      92,
+      339
+     ],
+     [
+      176,
+      374
+     ],
+     [
+      286,
+      382
+     ],
+     [
+      286,
+      292
+     ],
+     [
+      262,
+      245
+     ]
+    ],
+    "labels": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 107,
+    "obj": "vein",
+    "points": [
+     [
+      262,
+      245
+     ],
+     [
+      224,
+      164
+     ],
+     [
+      137,
+      219
+     ],
+     [
+      108,
+      143
+     ],
+     [
+      87,
+      309
+     ],
+     [
+      44,
+      362
+     ],
+     [
+      156,
+      376
+     ],
+     [
+      247,
+      372
+     ],
+     [
+      169,
+      297
+     ]
+    ],
+    "labels": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 108,
+    "obj": "artery",
+    "points": [
+     [
+      198,
+      240
+     ],
+     [
+      179,
+      284
+     ],
+     [
+      175,
+      218
+     ],
+     [
+      199,
+      205
+     ],
+     [
+      241,
+      219
+     ],
+     [
+      242,
+      246
+     ],
+     [
+      228,
+      264
+     ],
+     [
+      159,
+      250
+     ],
+     [
+      75,
+      337
+     ],
+     [
+      49,
+      300
+     ],
+     [
+      49,
+      265
+     ],
+     [
+      24,
+      247
+     ],
+     [
+      55,
+      219
+     ],
+     [
+      14,
+      297
+     ],
+     [
+      26,
+      345
+     ],
+     [
+      38,
+      312
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 108,
+    "obj": "vein",
+    "points": [
+     [
+      179,
+      285
+     ],
+     [
+      156,
+      192
+     ],
+     [
+      226,
+      195
+     ],
+     [
+      263,
+      244
+     ],
+     [
+      224,
+      326
+     ],
+     [
+      179,
+      341
+     ],
+     [
+      128,
+      308
+     ],
+     [
+      126,
+      260
+     ],
+     [
+      207,
+      263
+     ],
+     [
+      153,
+      269
+     ],
+     [
+      151,
+      314
+     ],
+     [
+      201,
+      317
+     ],
+     [
+      23,
+      293
+     ],
+     [
+      23,
+      331
+     ],
+     [
+      71,
+      322
+     ],
+     [
+      38,
+      279
+     ],
+     [
+      56,
+      233
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 109,
+    "obj": "artery",
+    "points": [
+     [
+      197,
+      237
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 109,
+    "obj": "vein",
+    "points": [
+     [
+      163,
+      109
+     ],
+     [
+      88,
+      191
+     ],
+     [
+      99,
+      302
+     ],
+     [
+      172,
+      364
+     ],
+     [
+      245,
+      315
+     ],
+     [
+      277,
+      170
+     ],
+     [
+      177,
+      272
+     ],
+     [
+      188,
+      253
+     ],
+     [
+      231,
+      269
+     ],
+     [
+      207,
+      305
+     ],
+     [
+      139,
+      277
+     ],
+     [
+      146,
+      230
+     ],
+     [
+      168,
+      310
+     ]
+    ],
+    "labels": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 110,
+    "obj": "artery",
+    "points": [
+     [
+      194,
+      230
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 110,
+    "obj": "vein",
+    "points": [
+     [
+      173,
+      275
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 111,
+    "obj": "artery",
+    "points": [
+     [
+      191,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 111,
+    "obj": "vein",
+    "points": [
+     [
+      165,
+      272
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 112,
+    "obj": "artery",
+    "points": [
+     [
+      192,
+      222
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 112,
+    "obj": "vein",
+    "points": [
+     [
+      170,
+      262
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 113,
+    "obj": "artery",
+    "points": [
+     [
+      188,
+      223
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 113,
+    "obj": "vein",
+    "points": [
+     [
+      159,
+      268
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 114,
+    "obj": "artery",
+    "points": [
+     [
+      200,
+      226
+     ],
+     [
+      177,
+      275
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 114,
+    "obj": "vein",
+    "points": [
+     [
+      178,
+      274
+     ],
+     [
+      201,
+      224
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 115,
+    "obj": "artery",
+    "points": [
+     [
+      198,
+      230
+     ],
+     [
+      187,
+      231
+     ],
+     [
+      180,
+      221
+     ],
+     [
+      209,
+      215
+     ],
+     [
+      180,
+      198
+     ],
+     [
+      239,
+      222
+     ],
+     [
+      192,
+      245
+     ],
+     [
+      189,
+      269
+     ],
+     [
+      157,
+      231
+     ]
+    ],
+    "labels": [
+     1,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 115,
+    "obj": "vein",
+    "points": [
+     [
+      188,
+      272
+     ],
+     [
+      166,
+      277
+     ],
+     [
+      168,
+      262
+     ],
+     [
+      200,
+      275
+     ],
+     [
+      227,
+      270
+     ],
+     [
+      207,
+      291
+     ],
+     [
+      161,
+      296
+     ],
+     [
+      124,
+      274
+     ],
+     [
+      143,
+      258
+     ],
+     [
+      141,
+      233
+     ],
+     [
+      179,
+      226
+     ],
+     [
+      204,
+      220
+     ],
+     [
+      236,
+      238
+     ],
+     [
+      207,
+      241
+     ],
+     [
+      285,
+      324
+     ],
+     [
+      84,
+      372
+     ],
+     [
+      176,
+      59
+     ]
+    ],
+    "labels": [
+     1,
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 120,
+    "obj": "artery",
+    "points": [
+     [
+      180,
+      223
+     ],
+     [
+      170,
+      263
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 120,
+    "obj": "vein",
+    "points": [
+     [
+      163,
+      260
+     ],
+     [
+      182,
+      226
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 125,
+    "obj": "artery",
+    "points": [
+     [
+      186,
+      205
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 125,
+    "obj": "vein",
+    "points": [
+     [
+      159,
+      258
+     ],
+     [
+      147,
+      246
+     ]
+    ],
+    "labels": [
+     1,
+     1
+    ]
+   },
+   {
+    "frame": 126,
+    "obj": "artery",
+    "points": [
+     [
+      176,
+      199
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 126,
+    "obj": "vein",
+    "points": [
+     [
+      147,
+      246
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 127,
+    "obj": "artery",
+    "points": [
+     [
+      178,
+      203
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 127,
+    "obj": "vein",
+    "points": [
+     [
+      147,
+      246
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 128,
+    "obj": "artery",
+    "points": [
+     [
+      178,
+      203
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 128,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      244
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 129,
+    "obj": "artery",
+    "points": [
+     [
+      178,
+      203
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 129,
+    "obj": "vein",
+    "points": [
+     [
+      139,
+      244
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 130,
+    "obj": "artery",
+    "points": [
+     [
+      182,
+      200
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 130,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      242
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 131,
+    "obj": "artery",
+    "points": [
+     [
+      182,
+      200
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 131,
+    "obj": "vein",
+    "points": [
+     [
+      146,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 132,
+    "obj": "artery",
+    "points": [
+     [
+      159,
+      188
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 132,
+    "obj": "vein",
+    "points": [
+     [
+      146,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 133,
+    "obj": "artery",
+    "points": [
+     [
+      161,
+      189
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 133,
+    "obj": "vein",
+    "points": [
+     [
+      152,
+      237
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 134,
+    "obj": "artery",
+    "points": [
+     [
+      198,
+      185
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 134,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      235
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 135,
+    "obj": "artery",
+    "points": [
+     [
+      185,
+      187
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 135,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      235
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 136,
+    "obj": "artery",
+    "points": [
+     [
+      180,
+      187
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 136,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      235
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 137,
+    "obj": "artery",
+    "points": [
+     [
+      177,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 137,
+    "obj": "vein",
+    "points": [
+     [
+      157,
+      235
+     ],
+     [
+      211,
+      212
+     ],
+     [
+      188,
+      264
+     ],
+     [
+      103,
+      276
+     ],
+     [
+      105,
+      202
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 138,
+    "obj": "artery",
+    "points": [
+     [
+      174,
+      179
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 138,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      226
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "artery",
+    "points": [
+     [
+      186,
+      187
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      239
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   }
+  ],
+  "absent": [
+   {
+    "obj": "vein",
+    "from": 53,
+    "to": 104
+   }
+  ],
+  "notes": "",
+  "human_checked": true,
+  "skip": [
+   [
+    140,
+    159
+   ]
+  ]
+ },
+ "051426_Lee0_standing": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 75,
+    "obj": "artery",
+    "points": [
+     [
+      85,
+      220
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 76,
+    "obj": "artery",
+    "points": [
+     [
+      92,
+      210
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 76,
+    "obj": "vein",
+    "points": [
+     [
+      100,
+      269
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 77,
+    "obj": "artery",
+    "points": [
+     [
+      81,
+      213
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 77,
+    "obj": "vein",
+    "points": [
+     [
+      87,
+      270
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 78,
+    "obj": "artery",
+    "points": [
+     [
+      36,
+      208
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 78,
+    "obj": "vein",
+    "points": [
+     [
+      53,
+      265
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 79,
+    "obj": "artery",
+    "points": [
+     [
+      126,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 79,
+    "obj": "vein",
+    "points": [
+     [
+      135,
+      278
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 81,
+    "obj": "artery",
+    "points": [
+     [
+      123,
+      209
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 81,
+    "obj": "vein",
+    "points": [
+     [
+      135,
+      277
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 83,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      216
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 83,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      281
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 84,
+    "obj": "artery",
+    "points": [
+     [
+      123,
+      231
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 84,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      284
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 85,
+    "obj": "artery",
+    "points": [
+     [
+      129,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 85,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      290
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 87,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      222
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 88,
+    "obj": "vein",
+    "points": [
+     [
+      137,
+      292
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 89,
+    "obj": "artery",
+    "points": [
+     [
+      136,
+      243
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 89,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      306
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 90,
+    "obj": "artery",
+    "points": [
+     [
+      137,
+      182
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 90,
+    "obj": "vein",
+    "points": [
+     [
+      142,
+      228
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 91,
+    "obj": "vein",
+    "points": [
+     [
+      150,
+      201
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 92,
+    "obj": "artery",
+    "points": [
+     [
+      144,
+      164
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 93,
+    "obj": "artery",
+    "points": [
+     [
+      145,
+      154
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 93,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      202
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 94,
+    "obj": "artery",
+    "points": [
+     [
+      145,
+      154
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 94,
+    "obj": "vein",
+    "points": [
+     [
+      151,
+      194
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 95,
+    "obj": "artery",
+    "points": [
+     [
+      144,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 95,
+    "obj": "vein",
+    "points": [
+     [
+      152,
+      284
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 96,
+    "obj": "artery",
+    "points": [
+     [
+      144,
+      206
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 96,
+    "obj": "vein",
+    "points": [
+     [
+      151,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 97,
+    "obj": "artery",
+    "points": [
+     [
+      141,
+      199
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 97,
+    "obj": "vein",
+    "points": [
+     [
+      147,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 98,
+    "obj": "artery",
+    "points": [
+     [
+      139,
+      199
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 98,
+    "obj": "vein",
+    "points": [
+     [
+      147,
+      251
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 99,
+    "obj": "artery",
+    "points": [
+     [
+      139,
+      205
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 99,
+    "obj": "vein",
+    "points": [
+     [
+      147,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 100,
+    "obj": "artery",
+    "points": [
+     [
+      137,
+      206
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 100,
+    "obj": "vein",
+    "points": [
+     [
+      147,
+      257
+     ],
+     [
+      192,
+      248
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 101,
+    "obj": "artery",
+    "points": [
+     [
+      135,
+      202
+     ],
+     [
+      137,
+      246
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 101,
+    "obj": "vein",
+    "points": [
+     [
+      191,
+      255
+     ],
+     [
+      143,
+      254
+     ],
+     [
+      139,
+      201
+     ]
+    ],
+    "labels": [
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 102,
+    "obj": "artery",
+    "points": [
+     [
+      134,
+      208
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 102,
+    "obj": "vein",
+    "points": [
+     [
+      143,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 103,
+    "obj": "artery",
+    "points": [
+     [
+      128,
+      193
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 104,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      188
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 105,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      189
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 105,
+    "obj": "vein",
+    "points": [
+     [
+      132,
+      228
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 106,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 107,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 108,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 109,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 109,
+    "obj": "vein",
+    "points": [
+     [
+      132,
+      231
+     ],
+     [
+      173,
+      230
+     ],
+     [
+      158,
+      230
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     1
+    ]
+   },
+   {
+    "frame": 110,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 111,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 112,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      186
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 113,
+    "obj": "artery",
+    "points": [
+     [
+      108,
+      174
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 114,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      183
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 114,
+    "obj": "vein",
+    "points": [
+     [
+      121,
+      229
+     ],
+     [
+      163,
+      232
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 115,
+    "obj": "artery",
+    "points": [
+     [
+      106,
+      181
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 116,
+    "obj": "artery",
+    "points": [
+     [
+      106,
+      181
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 117,
+    "obj": "artery",
+    "points": [
+     [
+      128,
+      188
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 118,
+    "obj": "artery",
+    "points": [
+     [
+      117,
+      188
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 119,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      194
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 120,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      194
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 121,
+    "obj": "artery",
+    "points": [
+     [
+      122,
+      194
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 121,
+    "obj": "vein",
+    "points": [
+     [
+      130,
+      244
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 122,
+    "obj": "artery",
+    "points": [
+     [
+      114,
+      193
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 123,
+    "obj": "artery",
+    "points": [
+     [
+      114,
+      193
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 124,
+    "obj": "artery",
+    "points": [
+     [
+      124,
+      197
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 125,
+    "obj": "artery",
+    "points": [
+     [
+      124,
+      204
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 126,
+    "obj": "artery",
+    "points": [
+     [
+      124,
+      210
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 126,
+    "obj": "vein",
+    "points": [
+     [
+      132,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 127,
+    "obj": "artery",
+    "points": [
+     [
+      132,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 128,
+    "obj": "artery",
+    "points": [
+     [
+      134,
+      225
+     ],
+     [
+      274,
+      228
+     ],
+     [
+      270,
+      282
+     ],
+     [
+      192,
+      246
+     ],
+     [
+      137,
+      274
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 128,
+    "obj": "vein",
+    "points": [
+     [
+      138,
+      275
+     ],
+     [
+      191,
+      255
+     ],
+     [
+      280,
+      280
+     ],
+     [
+      280,
+      236
+     ],
+     [
+      134,
+      224
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 129,
+    "obj": "artery",
+    "points": [
+     [
+      126,
+      230
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 129,
+    "obj": "vein",
+    "points": [
+     [
+      139,
+      277
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 131,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      280
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 132,
+    "obj": "vein",
+    "points": [
+     [
+      151,
+      287
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 133,
+    "obj": "vein",
+    "points": [
+     [
+      144,
+      286
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 135,
+    "obj": "vein",
+    "points": [
+     [
+      163,
+      290
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 137,
+    "obj": "vein",
+    "points": [
+     [
+      166,
+      301
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "artery",
+    "points": [
+     [
+      155,
+      248
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "vein",
+    "points": [
+     [
+      167,
+      299
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 140,
+    "obj": "artery",
+    "points": [
+     [
+      164,
+      248
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 141,
+    "obj": "artery",
+    "points": [
+     [
+      181,
+      246
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 141,
+    "obj": "vein",
+    "points": [
+     [
+      192,
+      296
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 142,
+    "obj": "artery",
+    "points": [
+     [
+      181,
+      251
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 143,
+    "obj": "artery",
+    "points": [
+     [
+      195,
+      249
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 143,
+    "obj": "vein",
+    "points": [
+     [
+      204,
+      294
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 144,
+    "obj": "artery",
+    "points": [
+     [
+      210,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 145,
+    "obj": "artery",
+    "points": [
+     [
+      231,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 145,
+    "obj": "vein",
+    "points": [
+     [
+      226,
+      295
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 147,
+    "obj": "artery",
+    "points": [
+     [
+      121,
+      256
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 147,
+    "obj": "vein",
+    "points": [
+     [
+      117,
+      291
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 148,
+    "obj": "artery",
+    "points": [
+     [
+      100,
+      253
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 148,
+    "obj": "vein",
+    "points": [
+     [
+      103,
+      302
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 149,
+    "obj": "artery",
+    "points": [
+     [
+      87,
+      257
+     ],
+     [
+      249,
+      243
+     ],
+     [
+      249,
+      304
+     ],
+     [
+      223,
+      307
+     ],
+     [
+      267,
+      254
+     ],
+     [
+      49,
+      265
+     ],
+     [
+      50,
+      304
+     ],
+     [
+      89,
+      302
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 149,
+    "obj": "vein",
+    "points": [
+     [
+      91,
+      299
+     ],
+     [
+      194,
+      260
+     ],
+     [
+      242,
+      267
+     ],
+     [
+      263,
+      246
+     ],
+     [
+      277,
+      293
+     ],
+     [
+      188,
+      301
+     ],
+     [
+      277,
+      222
+     ],
+     [
+      88,
+      258
+     ],
+     [
+      55,
+      303
+     ],
+     [
+      49,
+      265
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 150,
+    "obj": "artery",
+    "points": [
+     [
+      69,
+      251
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 150,
+    "obj": "vein",
+    "points": [
+     [
+      68,
+      294
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 151,
+    "obj": "artery",
+    "points": [
+     [
+      58,
+      253
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 151,
+    "obj": "vein",
+    "points": [
+     [
+      58,
+      299
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 153,
+    "obj": "artery",
+    "points": [
+     [
+      50,
+      256
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 153,
+    "obj": "vein",
+    "points": [
+     [
+      50,
+      307
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 158,
+    "obj": "artery",
+    "points": [
+     [
+      140,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 159,
+    "obj": "artery",
+    "points": [
+     [
+      114,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 160,
+    "obj": "artery",
+    "points": [
+     [
+      117,
+      267
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 161,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      263
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 162,
+    "obj": "artery",
+    "points": [
+     [
+      130,
+      253
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 163,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 164,
+    "obj": "artery",
+    "points": [
+     [
+      130,
+      254
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 165,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 166,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 167,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 168,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 169,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 169,
+    "obj": "vein",
+    "points": [
+     [
+      133,
+      304
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 170,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      257
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 170,
+    "obj": "vein",
+    "points": [
+     [
+      133,
+      304
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 171,
+    "obj": "vein",
+    "points": [
+     [
+      131,
+      302
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 172,
+    "obj": "artery",
+    "points": [
+     [
+      134,
+      269
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 172,
+    "obj": "vein",
+    "points": [
+     [
+      131,
+      317
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 174,
+    "obj": "artery",
+    "points": [
+     [
+      138,
+      273
+     ],
+     [
+      140,
+      319
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 174,
+    "obj": "vein",
+    "points": [
+     [
+      143,
+      309
+     ],
+     [
+      143,
+      270
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 192,
+    "obj": "artery",
+    "points": [
+     [
+      123,
+      231
+     ],
+     [
+      114,
+      287
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 192,
+    "obj": "vein",
+    "points": [
+     [
+      123,
+      296
+     ],
+     [
+      112,
+      227
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 193,
+    "obj": "artery",
+    "points": [
+     [
+      120,
+      230
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 193,
+    "obj": "vein",
+    "points": [
+     [
+      118,
+      289
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 194,
+    "obj": "artery",
+    "points": [
+     [
+      118,
+      233
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 194,
+    "obj": "vein",
+    "points": [
+     [
+      130,
+      295
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 195,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      233
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 195,
+    "obj": "vein",
+    "points": [
+     [
+      123,
+      285
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 196,
+    "obj": "artery",
+    "points": [
+     [
+      101,
+      228
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 196,
+    "obj": "vein",
+    "points": [
+     [
+      105,
+      287
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 197,
+    "obj": "artery",
+    "points": [
+     [
+      94,
+      236
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 197,
+    "obj": "vein",
+    "points": [
+     [
+      111,
+      295
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 198,
+    "obj": "artery",
+    "points": [
+     [
+      68,
+      228
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 198,
+    "obj": "vein",
+    "points": [
+     [
+      68,
+      280
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 204,
+    "obj": "artery",
+    "points": [
+     [
+      110,
+      226
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 204,
+    "obj": "vein",
+    "points": [
+     [
+      111,
+      282
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 205,
+    "obj": "artery",
+    "points": [
+     [
+      112,
+      232
+     ],
+     [
+      110,
+      288
+     ],
+     [
+      188,
+      254
+     ],
+     [
+      191,
+      286
+     ],
+     [
+      217,
+      277
+     ],
+     [
+      210,
+      250
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 205,
+    "obj": "vein",
+    "points": [
+     [
+      108,
+      288
+     ],
+     [
+      113,
+      231
+     ],
+     [
+      206,
+      251
+     ],
+     [
+      206,
+      285
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 206,
+    "obj": "artery",
+    "points": [
+     [
+      114,
+      231
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 206,
+    "obj": "vein",
+    "points": [
+     [
+      113,
+      293
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 207,
+    "obj": "artery",
+    "points": [
+     [
+      123,
+      236
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 207,
+    "obj": "vein",
+    "points": [
+     [
+      122,
+      296
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 208,
+    "obj": "artery",
+    "points": [
+     [
+      130,
+      237
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 208,
+    "obj": "vein",
+    "points": [
+     [
+      134,
+      296
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 223,
+    "obj": "artery",
+    "points": [
+     [
+      140,
+      240
+     ],
+     [
+      142,
+      299
+     ],
+     [
+      238,
+      251
+     ],
+     [
+      240,
+      284
+     ],
+     [
+      285,
+      288
+     ],
+     [
+      218,
+      317
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 223,
+    "obj": "vein",
+    "points": [
+     [
+      139,
+      300
+     ],
+     [
+      239,
+      249
+     ],
+     [
+      237,
+      312
+     ],
+     [
+      138,
+      239
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 224,
+    "obj": "artery",
+    "points": [
+     [
+      140,
+      238
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 224,
+    "obj": "vein",
+    "points": [
+     [
+      138,
+      298
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   }
+  ],
+  "skip": [
+   [
+    0,
+    74
+   ],
+   [
+    146,
+    146
+   ],
+   [
+    154,
+    157
+   ],
+   [
+    199,
+    203
+   ]
+  ],
+  "notes": "",
+  "human_checked": true
+ },
+ "051426_Lee1_standing": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 53,
+    "obj": "artery",
+    "points": [
+     [
+      206,
+      211
+     ],
+     [
+      269,
+      254
+     ],
+     [
+      264,
+      210
+     ],
+     [
+      217,
+      258
+     ],
+     [
+      157,
+      204
+     ],
+     [
+      156,
+      263
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 53,
+    "obj": "vein",
+    "points": [
+     [
+      215,
+      264
+     ],
+     [
+      155,
+      201
+     ],
+     [
+      263,
+      207
+     ],
+     [
+      269,
+      252
+     ],
+     [
+      156,
+      263
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 58,
+    "obj": "artery",
+    "points": [
+     [
+      161,
+      187
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 59,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      176
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 60,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      176
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 61,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      179
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 63,
+    "obj": "artery",
+    "points": [
+     [
+      197,
+      179
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 64,
+    "obj": "artery",
+    "points": [
+     [
+      223,
+      178
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 65,
+    "obj": "artery",
+    "points": [
+     [
+      183,
+      174
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 66,
+    "obj": "artery",
+    "points": [
+     [
+      115,
+      168
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 67,
+    "obj": "artery",
+    "points": [
+     [
+      148,
+      169
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 68,
+    "obj": "artery",
+    "points": [
+     [
+      137,
+      168
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 69,
+    "obj": "artery",
+    "points": [
+     [
+      135,
+      168
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 71,
+    "obj": "artery",
+    "points": [
+     [
+      131,
+      172
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 73,
+    "obj": "artery",
+    "points": [
+     [
+      132,
+      173
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 75,
+    "obj": "artery",
+    "points": [
+     [
+      124,
+      174
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 77,
+    "obj": "artery",
+    "points": [
+     [
+      130,
+      176
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 79,
+    "obj": "artery",
+    "points": [
+     [
+      150,
+      178
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 81,
+    "obj": "artery",
+    "points": [
+     [
+      158,
+      180
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 83,
+    "obj": "artery",
+    "points": [
+     [
+      158,
+      180
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 89,
+    "obj": "artery",
+    "points": [
+     [
+      133,
+      191
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 94,
+    "obj": "artery",
+    "points": [
+     [
+      168,
+      209
+     ],
+     [
+      162,
+      253
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 94,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      257
+     ],
+     [
+      62,
+      191
+     ],
+     [
+      45,
+      248
+     ],
+     [
+      168,
+      203
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 102,
+    "obj": "artery",
+    "points": [
+     [
+      156,
+      211
+     ],
+     [
+      151,
+      265
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 102,
+    "obj": "vein",
+    "points": [
+     [
+      151,
+      264
+     ],
+     [
+      159,
+      210
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 103,
+    "obj": "artery",
+    "points": [
+     [
+      163,
+      205
+     ],
+     [
+      158,
+      254
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 103,
+    "obj": "vein",
+    "points": [
+     [
+      158,
+      252
+     ],
+     [
+      164,
+      208
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 104,
+    "obj": "artery",
+    "points": [
+     [
+      171,
+      201
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 104,
+    "obj": "vein",
+    "points": [
+     [
+      165,
+      263
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 105,
+    "obj": "artery",
+    "points": [
+     [
+      171,
+      204
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 105,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      250
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 106,
+    "obj": "artery",
+    "points": [
+     [
+      166,
+      202
+     ],
+     [
+      164,
+      255
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 106,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      253
+     ],
+     [
+      167,
+      202
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 107,
+    "obj": "artery",
+    "points": [
+     [
+      163,
+      212
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 107,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      256
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 108,
+    "obj": "artery",
+    "points": [
+     [
+      166,
+      215
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 108,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      256
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 109,
+    "obj": "artery",
+    "points": [
+     [
+      163,
+      217
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 109,
+    "obj": "vein",
+    "points": [
+     [
+      165,
+      252
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 110,
+    "obj": "artery",
+    "points": [
+     [
+      162,
+      216
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 111,
+    "obj": "artery",
+    "points": [
+     [
+      161,
+      216
+     ],
+     [
+      159,
+      254
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 111,
+    "obj": "vein",
+    "points": [
+     [
+      159,
+      254
+     ],
+     [
+      163,
+      217
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 112,
+    "obj": "artery",
+    "points": [
+     [
+      162,
+      218
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 113,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      223
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 114,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      223
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 115,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      223
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 116,
+    "obj": "artery",
+    "points": [
+     [
+      155,
+      230
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 117,
+    "obj": "artery",
+    "points": [
+     [
+      157,
+      227
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 118,
+    "obj": "artery",
+    "points": [
+     [
+      158,
+      228
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 118,
+    "obj": "vein",
+    "points": [
+     [
+      156,
+      268
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 119,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 120,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 121,
+    "obj": "artery",
+    "points": [
+     [
+      158,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 121,
+    "obj": "vein",
+    "points": [
+     [
+      154,
+      266
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 122,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      222
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 123,
+    "obj": "artery",
+    "points": [
+     [
+      156,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 123,
+    "obj": "vein",
+    "points": [
+     [
+      152,
+      278
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 124,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      222
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 125,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      222
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 126,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      222
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 127,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 128,
+    "obj": "artery",
+    "points": [
+     [
+      154,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 129,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      216
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 129,
+    "obj": "vein",
+    "points": [
+     [
+      162,
+      265
+     ],
+     [
+      127,
+      269
+     ],
+     [
+      198,
+      279
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 130,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 130,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      276
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 131,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 131,
+    "obj": "vein",
+    "points": [
+     [
+      165,
+      276
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 132,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 133,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 134,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 134,
+    "obj": "vein",
+    "points": [
+     [
+      167,
+      267
+     ],
+     [
+      125,
+      284
+     ],
+     [
+      214,
+      289
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 135,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 136,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 136,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      270
+     ],
+     [
+      118,
+      280
+     ],
+     [
+      215,
+      286
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 137,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 137,
+    "obj": "vein",
+    "points": [
+     [
+      166,
+      271
+     ],
+     [
+      124,
+      272
+     ],
+     [
+      226,
+      288
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 138,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 139,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      274
+     ],
+     [
+      120,
+      273
+     ],
+     [
+      211,
+      280
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 140,
+    "obj": "artery",
+    "points": [
+     [
+      160,
+      219
+     ],
+     [
+      184,
+      271
+     ],
+     [
+      186,
+      155
+     ],
+     [
+      133,
+      201
+     ],
+     [
+      241,
+      219
+     ],
+     [
+      138,
+      267
+     ],
+     [
+      250,
+      284
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 140,
+    "obj": "vein",
+    "points": [
+     [
+      172,
+      270
+     ],
+     [
+      235,
+      282
+     ],
+     [
+      125,
+      256
+     ],
+     [
+      179,
+      214
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 141,
+    "obj": "artery",
+    "points": [
+     [
+      175,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 141,
+    "obj": "vein",
+    "points": [
+     [
+      172,
+      270
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 142,
+    "obj": "artery",
+    "points": [
+     [
+      175,
+      219
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 142,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      273
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 143,
+    "obj": "artery",
+    "points": [
+     [
+      175,
+      220
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 143,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      273
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 144,
+    "obj": "artery",
+    "points": [
+     [
+      175,
+      220
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 144,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      273
+     ],
+     [
+      232,
+      284
+     ],
+     [
+      121,
+      282
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 145,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      273
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 146,
+    "obj": "artery",
+    "points": [
+     [
+      175,
+      220
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 146,
+    "obj": "vein",
+    "points": [
+     [
+      168,
+      273
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   }
+  ],
+  "exclude": [
+   [
+    101,
+    101
+   ]
+  ],
+  "skip": [
+   [
+    0,
+    52
+   ],
+   [
+    157,
+    161
+   ]
+  ],
+  "notes": "",
+  "human_checked": true
+ },
+ "051426_Lee2_standing": {
+  "stride": 1,
+  "prompts": [
+   {
+    "frame": 25,
+    "obj": "artery",
+    "points": [
+     [
+      173,
+      213
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 25,
+    "obj": "vein",
+    "points": [
+     [
+      176,
+      261
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 26,
+    "obj": "artery",
+    "points": [
+     [
+      216,
+      208
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 26,
+    "obj": "vein",
+    "points": [
+     [
+      215,
+      250
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 27,
+    "obj": "artery",
+    "points": [
+     [
+      225,
+      187
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 27,
+    "obj": "vein",
+    "points": [
+     [
+      223,
+      241
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 28,
+    "obj": "artery",
+    "points": [
+     [
+      180,
+      208
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 28,
+    "obj": "vein",
+    "points": [
+     [
+      179,
+      247
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 32,
+    "obj": "artery",
+    "points": [
+     [
+      172,
+      181
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 32,
+    "obj": "vein",
+    "points": [
+     [
+      171,
+      226
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 39,
+    "obj": "vein",
+    "points": [
+     [
+      155,
+      221
+     ],
+     [
+      114,
+      231
+     ],
+     [
+      203,
+      245
+     ],
+     [
+      158,
+      178
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 41,
+    "obj": "artery",
+    "points": [
+     [
+      158,
+      174
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 41,
+    "obj": "vein",
+    "points": [
+     [
+      155,
+      225
+     ],
+     [
+      117,
+      223
+     ],
+     [
+      204,
+      238
+     ],
+     [
+      158,
+      174
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 50,
+    "obj": "artery",
+    "points": [
+     [
+      165,
+      175
+     ],
+     [
+      120,
+      180
+     ],
+     [
+      199,
+      172
+     ],
+     [
+      219,
+      246
+     ],
+     [
+      113,
+      236
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 50,
+    "obj": "vein",
+    "points": [
+     [
+      164,
+      225
+     ]
+    ],
+    "labels": [
+     1
+    ]
+   },
+   {
+    "frame": 85,
+    "obj": "artery",
+    "points": [
+     [
+      159,
+      184
+     ],
+     [
+      188,
+      180
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 85,
+    "obj": "vein",
+    "points": [
+     [
+      150,
+      230
+     ],
+     [
+      198,
+      247
+     ],
+     [
+      103,
+      237
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 159,
+    "obj": "artery",
+    "points": [
+     [
+      164,
+      210
+     ],
+     [
+      150,
+      250
+     ]
+    ],
+    "labels": [
+     1,
+     0
+    ]
+   },
+   {
+    "frame": 159,
+    "obj": "vein",
+    "points": [
+     [
+      151,
+      251
+     ],
+     [
+      109,
+      270
+     ],
+     [
+      195,
+      280
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 170,
+    "obj": "artery",
+    "points": [
+     [
+      195,
+      212
+     ],
+     [
+      184,
+      267
+     ],
+     [
+      219,
+      178
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "frame": 170,
+    "obj": "vein",
+    "points": [
+     [
+      182,
+      263
+     ],
+     [
+      128,
+      270
+     ],
+     [
+      248,
+      277
+     ],
+     [
+      192,
+      214
+     ]
+    ],
+    "labels": [
+     1,
+     0,
+     0,
+     0
+    ]
+   }
+  ],
+  "skip": [
+   [
+    0,
+    25
+   ]
+  ],
+  "notes": "",
+  "human_checked": true
+ }
+}

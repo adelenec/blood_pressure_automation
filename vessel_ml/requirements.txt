@@ -1,0 +1,15 @@
+# Dependencies for the vessel segmentation pipeline in vessel_ml/.
+# Install PyTorch first (see README: the right build depends on your GPU driver),
+# then:  pip install -r vessel_ml/requirements.txt
+#
+# Versions in comments are the ones this was developed and run with (Python 3.12).
+torch            # 2.11.0+cu128
+torchvision      # 0.26.0+cu128
+sam2             # 1.1.0   (only needed for labelling: sam2_label.py / label_tool.py re-runs)
+opencv-python-headless  # 5.0.0.93
+numpy            # 2.5.4
+pandas           # 3.1.1
+matplotlib       # 3.11.2
+scipy            # 1.18.1
+tqdm             # 4.70.1
+openpyxl         # 3.1.5   (reading Methods Testing Plan.xlsx)

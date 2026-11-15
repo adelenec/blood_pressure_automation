@@ -1,0 +1,52 @@
+{
+ "051426_Lee0_standing": {
+  "video": "data/051426 - Custom Script/051426_Lee0_standing/051426_Lee0_standing.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee0_standing/051426_Lee0_standing_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee0_standing/051426_Lee0_standing_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee0_standing/051426_Lee0_standing_events.csv"
+ },
+ "051426_Lee0": {
+  "video": "data/051426 - Custom Script/051426_Lee0_supine/051426_Lee0.mp4",
+  "frames_csv": null,
+  "pressure_csv": null,
+  "events_csv": "data/051426 - Custom Script/051426_Lee0_supine/051426_Lee0.csv",
+  "note": "no frames/pressure CSV for this video in the zip; events file is empty"
+ },
+ "051426_Lee1_standing": {
+  "video": "data/051426 - Custom Script/051426_Lee1_standing/051426_Lee1_standing.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee1_standing/051426_Lee1_standing_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee1_standing/051426_Lee1_standing_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee1_standing/051426_Lee1_standing_events.csv"
+ },
+ "051426_Lee1": {
+  "video": "data/051426 - Custom Script/051426_Lee1_supine/051426_Lee1.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee0_supine/051426_Lee1_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee0_supine/051426_Lee1_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee1_supine/051426_Lee1.csv",
+  "note": "frames/pressure CSVs were found misfiled in the 051426_Lee0_supine folder"
+ },
+ "051426_Lee2_standing": {
+  "video": "data/051426 - Custom Script/051426_Lee2_standing/051426_Lee2_standing.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee2_standing/051426_Lee2_standing_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee2_standing/051426_Lee2_standing_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee2_standing/051426_Lee2_standing_events.csv"
+ },
+ "051426_Lee2": {
+  "video": "data/051426 - Custom Script/051426_Lee2_supine/051426_Lee2.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee2_supine/051426_Lee2_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee2_supine/051426_Lee2_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee2_supine/051426_Lee2_events.csv"
+ },
+ "051426_Lee3_standing": {
+  "video": "data/051426 - Custom Script/051426_Lee3_standing/051426_Lee3_standing.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee3_standing/051426_Lee3_standing_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee3_standing/051426_Lee3_standing_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee3_standing/051426_Lee3_standing_events.csv"
+ },
+ "051426_Lee3": {
+  "video": "data/051426 - Custom Script/051426_Lee3_supine/051426_Lee3.mp4",
+  "frames_csv": "data/051426 - Custom Script/051426_Lee3_supine/051426_Lee3_frames.csv",
+  "pressure_csv": "data/051426 - Custom Script/051426_Lee3_supine/051426_Lee3_pressure.csv",
+  "events_csv": "data/051426 - Custom Script/051426_Lee3_supine/051426_Lee3_events.csv"
+ }
+}

@@ -1,0 +1,49 @@
+{
+  "t0_epoch_s": 1778771268.1338298,
+  "t0_local_iso": "2026-05-14T11:07:48.133838-04:00",
+  "session_wall_s": 269.56584016699344,
+  "video": {
+    "nominal_fps": 30.0,
+    "frame_count": 333,
+    "mean_inter_frame_s": 0.8018580803224054,
+    "std_inter_frame_s": 0.0736309763623592,
+    "implied_mean_fps": 1.2471034769618174
+  },
+  "pressure": {
+    "nominal_hz": 100,
+    "sample_count": 2672,
+    "mean_inter_sample_s": 0.09993317183012994,
+    "std_inter_sample_s": 0.022715949368820487,
+    "implied_mean_hz": 10.00668728597784
+  },
+  "collapse_events": [
+    {
+      "type": "venous",
+      "t_sync_s": 51.19419983308762,
+      "cuff_pressure_mm_hg": 14.623152916086838
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 96.71507791709155,
+      "cuff_pressure_mm_hg": 107.6688100756146
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 116.70041420776397,
+      "cuff_pressure_mm_hg": 58.911820428678766
+    },
+    {
+      "type": "venous",
+      "t_sync_s": 232.70438658306375,
+      "cuff_pressure_mm_hg": 11.175738819059916
+    }
+  ],
+  "files": {
+    "video": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_110747_mirroring.mp4",
+    "pressure_csv": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_110747_pressure.csv",
+    "video_frames_csv": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_110747_video_frames.csv",
+    "collapse_events_csv": "/Users/ray/Documents/personal/all/MIT 25-26/2.75/blood_pressure_automation/data/session_20260514_110747_collapse_events.csv"
+  },
+  "quartz_window_owner": "iPhone Mirroring \u2014 iPhone Mirroring",
+  "quartz_window_id": 72653
+}
